@@ -13,6 +13,7 @@ let esValido = checkCoupon(
   "October 1, 2014"
 );
 console.log(esValido); // true
+
 let esValido_no = checkCoupon(
   "123",
   "blablebli",

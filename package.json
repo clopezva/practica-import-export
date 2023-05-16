@@ -5,9 +5,14 @@
   "main": "ex1.js",
   "type": "module",
   "scripts": {
+    "danimachaca": "node ex1.js",
+    "check-cupon": "node ex2.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "jpeg-exif": "^1.1.4"
+  }
 }

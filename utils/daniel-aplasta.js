@@ -1,4 +1,4 @@
-function danielAplasta(palabra) {
+export function danielAplasta(palabra) {
   /*(palabra/Es un argumento)arguments es un objeto similar a Array accesible dentro de funciones que contiene los valores de los argumentos pasados a esa función. *fuentes: developer.mozilla*/
   let sentence = "";
 
